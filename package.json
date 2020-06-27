@@ -1,13 +1,15 @@
 {
-  "name": "monsters-rolodex",
+  "name": "monsters-rolodex-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alfiandpratama.github.io/monsters-rolodex",
+  "homepage": "https://alfiandpratama.github.io/monsters-rolodex-redux",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-redux": "^7.2.0",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
